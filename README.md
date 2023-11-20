@@ -2,7 +2,7 @@
 
 ![](./sample.png)
 
-pbm csxz tdnl kgh aeiuo 01234 56789 .,?!-"  
+pbm csxz tdnl kgh aeiuo jw 01234 56789 .,?!-"  
 mugaxiju e belpic? mak-mak doktit nuwaxecleti "zo". hata, setija!
 
 Available in [TTF](https://github.com/sozysozbot/gy1_bet2_pmcp_font/blob/master/fonts/gy1bet2.ttf) and [WOFF](https://github.com/sozysozbot/gy1_bet2_pmcp_font/blob/master/fonts/gy1bet2.woff).
