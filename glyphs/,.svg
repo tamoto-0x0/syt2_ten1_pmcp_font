@@ -1,1 +1,38 @@
-<svg width="200" height="1000" viewBox="0 0 199.9999962204724 1000" version="1.1" id="svg5" sodipodi:docname=",.svg" inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg"><path d="M131.000 788.039 C 122.841 788.745,114.757 793.317,110.443 799.667 C 108.587 802.399,41.902 918.121,40.813 920.500 C 39.084 924.278,38.528 926.969,38.543 931.500 C 38.584 943.949,45.779 953.991,57.749 958.307 C 63.623 960.424,70.419 960.256,76.872 957.833 C 81.716 956.014,86.818 952.054,89.599 947.953 C 91.562 945.060,157.766 830.180,159.016 827.500 C 160.905 823.450,161.471 820.826,161.462 816.167 C 161.452 811.366,160.676 808.054,158.490 803.500 C 155.849 797.994,151.699 793.888,145.833 790.976 C 140.746 788.451,136.336 787.578,131.000 788.039 " stroke="none" fill-rule="evenodd" fill="#000000"></path></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="200"
+   height="1000"
+   viewBox="0 0 200 1000"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname=",.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.813"
+     inkscape:cx="100.246"
+     inkscape:cy="500"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <path
+     style="fill:#000000;stroke:none;stroke-width:2.72126;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+     d="M 86.541648,676.64127 H 182.36162 L 105.17331,837.63838 20,825.33825 Z"
+     id="path2" />
+</svg>

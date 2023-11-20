@@ -1,7 +1,7 @@
 @font-face {
     font-family: "gy1bet2";
-    src: url("./gy1bet2.ttf?c7c65e2c0ac73710b8bc088544691bc9") format("truetype"),
-url("./gy1bet2.woff?c7c65e2c0ac73710b8bc088544691bc9") format("woff");
+    src: url("./gy1bet2.ttf?4ff380896d51bc39f3f10078fde1299c") format("truetype"),
+url("./gy1bet2.woff?4ff380896d51bc39f3f10078fde1299c") format("woff");
 }
 
 i[class^="icon-"]:before, i[class*=" icon-"]:before {
@@ -15,11 +15,56 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
     -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-0:before {
+    content: "\30";
+}
+.icon-1:before {
+    content: "\31";
+}
+.icon-2:before {
+    content: "\32";
+}
+.icon-3:before {
+    content: "\33";
+}
+.icon-4:before {
+    content: "\34";
+}
+.icon-5:before {
+    content: "\35";
+}
+.icon-6:before {
+    content: "\36";
+}
+.icon-7:before {
+    content: "\37";
+}
+.icon-8:before {
+    content: "\38";
+}
+.icon-9:before {
+    content: "\39";
+}
 .icon-exclamation:before {
     content: "\21";
 }
 .icon-comma:before {
     content: "\2c";
+}
+.icon-U-0020:before {
+    content: "\20";
+}
+.icon-U-0022:before {
+    content: "\22";
+}
+.icon-U-002D:before {
+    content: "\2d";
+}
+.icon-U-002E:before {
+    content: "\2e";
+}
+.icon-U-003F:before {
+    content: "\3f";
 }
 .icon-a:before {
     content: "\61";
@@ -71,21 +116,6 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 }
 .icon-t:before {
     content: "\74";
-}
-.icon-U-0020:before {
-    content: "\20";
-}
-.icon-U-0022:before {
-    content: "\22";
-}
-.icon-U-002D:before {
-    content: "\2d";
-}
-.icon-U-002E:before {
-    content: "\2e";
-}
-.icon-U-003F:before {
-    content: "\3f";
 }
 .icon-u:before {
     content: "\75";
