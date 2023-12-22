@@ -1,11 +1,11 @@
-# gy1 bet2 pmcp font【層圧島集倉字】
+# syt2 ten1 pmcp font【天混島集倉字】
 
 ![](./sample.png)
 
 pbm csxz tdnl kgh aeiuo jw 01234 56789 .,?!-"  
 mugaxiju e belpic? mak-mak doktit nuwaxecleti "zo". hata, setija!
 
-Available in [TTF](https://github.com/sozysozbot/gy1_bet2_pmcp_font/blob/master/fonts/gy1bet2.ttf) and [WOFF](https://github.com/sozysozbot/gy1_bet2_pmcp_font/blob/master/fonts/gy1bet2.woff).
+Available in [TTF](https://github.com/tamoto-0x0/syt2_ten1_pmcp_font/blob/master/fonts/syt2ten1.ttf) and [WOFF](https://github.com/tamoto-0x0/syt2_ten1_pmcp_font/blob/master/fonts/syt2ten1.woff).
 
 ## ビルド方法
 

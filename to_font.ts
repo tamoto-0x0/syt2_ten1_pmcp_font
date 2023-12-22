@@ -24,7 +24,7 @@ if (!fs.existsSync(out_path)) {
 generateFonts({
   inputDir: `${fix_path}/`,
   outputDir: `${out_path}/`,
-  name: `gy1bet2`,
+  name: `syt2ten1`,
   fontTypes: [FontAssetType.TTF, FontAssetType.WOFF],
   assetTypes: [
     OtherAssetType.CSS,
@@ -37,22 +37,22 @@ generateFonts({
 }).then(results => {
   console.log(results);
   
-  fs.readFile(`${out_path}/gy1bet2.html`, 'utf8', function (err,data) {
+  fs.readFile(`${out_path}/syt2ten1.html`, 'utf8', function (err,data) {
     if (err) {
       return console.log(err);
     }
     const result = replace_problematic_css(data);
-    fs.writeFile(`${out_path}/gy1bet2.html`, result, 'utf8', function (err) {
+    fs.writeFile(`${out_path}/syt2ten1.html`, result, 'utf8', function (err) {
        if (err) return console.log(err);
     });
   });
 
-  fs.readFile(`${out_path}/gy1bet2.css`, 'utf8', function (err,data) {
+  fs.readFile(`${out_path}/syt2ten1.css`, 'utf8', function (err,data) {
     if (err) {
       return console.log(err);
     }
     const result = replace_problematic_css(data);
-    fs.writeFile(`${out_path}/gy1bet2.css`, result, 'utf8', function (err) {
+    fs.writeFile(`${out_path}/syt2ten1.css`, result, 'utf8', function (err) {
        if (err) return console.log(err);
     });
   });
