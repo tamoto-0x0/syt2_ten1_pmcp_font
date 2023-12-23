@@ -2,6 +2,7 @@
 
 ![](./sample.png)
 
+jo ka lapekante leti mugaciju leti cul leti makleti e waxec
 pbm csxz tdnl kgh aeiuo jw 01234 56789 .,?!-"  
 mugaxiju e belpic? mak-mak doktit nuwaxecleti "zo". hata, setija!
 
