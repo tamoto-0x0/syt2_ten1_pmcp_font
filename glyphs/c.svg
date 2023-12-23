@@ -1,40 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="482.86679"
-   height="1002.8112"
-   viewBox="0 0 482.86678 1002.8112"
+   width="420mm"
+   height="1000mm"
+   viewBox="0 0 420 1000"
    version="1.1"
-   id="svg5"
-   sodipodi:docname="c.svg"
+   id="svg1"
    inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xml:space="preserve"
+   sodipodi:docname="_template.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs1" />
-  <sodipodi:namedview
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
      id="namedview1"
      pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
+     bordercolor="#666666"
+     borderopacity="1.0"
      inkscape:showpageshadow="2"
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.81470967"
-     inkscape:cx="241.19021"
-     inkscape:cy="501.40561"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.16000001"
+     inkscape:cx="1231.2499"
+     inkscape:cy="3153.1249"
      inkscape:window-width="1920"
-     inkscape:window-height="1094"
-     inkscape:window-x="-11"
-     inkscape:window-y="-11"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg5" />
-  <path
-     id="path16"
-     style="fill:#ff0000;fill-opacity:0.533333;stroke:#66ccff;stroke-width:0;stroke-dasharray:none"
-     d="m 67.55142,194.58605 v 576.35873 c 185.18459,1.88525 232.30714,-2.50591 289.61839,-69.16233 60.65553,-70.54608 79.9724,-178.15908 79.9724,-227.8342 0,-230.62459 -153.16196,-277.6108 -369.59079,-279.3622 z m 94.82886,72.60203 c 0,0 56.08823,-6.16157 106.30931,20.87053 98.58666,53.06537 93.77296,119.69296 91.01247,207.30457 -3.32922,105.6626 -91.68888,177.75077 -194.7409,192.69466 0,-146.01401 -2.58088,-258.73679 -2.58088,-420.86976 z"
-     sodipodi:nodetypes="ccssccsscc"
-     inkscape:label="glyph_c" />
-</svg>
+     inkscape:current-layer="svg1" /><defs
+     id="defs1" /><path
+     id="glyph_"
+     style="fill:#747474;stroke-width:160;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"
+     d="m 0,300 v 20 h 4 c 20,0 43,11 44,40 v 280 c 0,29 -22,40 -42,40 H 0 v 20 H 132 V 300 Z m 132,0 v 48 h 36 c 80,0 141,58 141,139 0,101 -61,157 -141,157 h -36 v 56 h 32 C 321,698 394,620 394,496 394,362 321,300 164,300 Z"
+     sodipodi:nodetypes="scssssccccscsscc" /></svg>
