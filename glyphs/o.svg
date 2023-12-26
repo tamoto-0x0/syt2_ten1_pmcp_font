@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="390mm"
+   width="426mm"
    height="1000mm"
-   viewBox="0 0 390 1000"
+   viewBox="0 0 426 1000"
    version="1.1"
    id="svg1"
    inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
@@ -22,9 +22,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.32000001"
-     inkscape:cx="920.31246"
-     inkscape:cy="1554.6874"
+     inkscape:zoom="0.11313709"
+     inkscape:cx="406.58638"
+     inkscape:cy="2753.2969"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -34,5 +34,5 @@
      id="defs1" /><path
      id="glyph_"
      style="fill:#747474;stroke-width:160;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"
-     d="m 152.99958,288 c -49,0 -110.999999,13 -136.999999,62 -12.0000001,21 -14.0000001,52 -3,75 10,23 33,39 59,33 28,-5 43.999999,-27 38.999999,-53 -5,-27 -32.999999,-35 -16.999999,-55 9.999999,-12 36.999999,-20 57.999999,-20 62,0 101,55 107,142 h -55 c -29,-1 -40,-24 -40,-44 v -4 h -20 v 136 h 20 v -6 c 0,-20 11,-42 40,-42 h 55 c -4,88 -38,131 -98,134 C 75.999581,651 31.999581,612 31.999581,532 L 5.9995809,538 C -10.000419,633 36.999581,708 161.99958,708 c 114,0 180,-83 180,-204 0,-138 -60,-216 -189,-216 z"
+     d="m 177,282 c -52,0 -118,14 -146,64 -13,22 -15,54 -3,77 11,23 35,40 63,34 30,-6 46,-28 41,-55 -5,-28 -35,-36 -18,-57 11,-12 39,-20 62,-20 65,0 104,56 109,147 h -54 c -31,-1 -43,-25 -43,-45 v -4 h -21 v 138 h 21 v -6 c 0,-21 12,-43 43,-43 h 55 C 282,602 249,641 186,644 95,649 48,615 48,533 l -28,6 C 3,637 54,714 186,714 307,714 378,628 378,504 378,362 314,282 177,282 Z"
      sodipodi:nodetypes="scssssccccscsscc" /></svg>

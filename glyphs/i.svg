@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="490mm"
+   width="480mm"
    height="1000mm"
-   viewBox="0 0 490 1000"
+   viewBox="0 0 480 1000"
    version="1.1"
    id="svg1"
    inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
@@ -22,9 +22,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.11313709"
-     inkscape:cx="835.26985"
-     inkscape:cy="2735.6192"
+     inkscape:zoom="0.22627418"
+     inkscape:cx="1518.0698"
+     inkscape:cy="1257.3242"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -34,5 +34,5 @@
      id="defs1" /><path
      id="glyph_"
      style="fill:#747474;stroke-width:160;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"
-     d="m 128,261 c -2,0 -3,1 -5,2 l -115,53 6,18 23,-8 c 8,-3 11,0 11,9 v 21 284 C 47,669 24,680 4,680 H 0 v 20 h 184 v -20 h -6 c -20,0 -42,-11 -42,-40 V 438 c 10,-66 128,-108 172,-56 46,53 26,118 -3,212 -34,116 105,165 175,38 l -24,-6 c -39,47 -90,32 -61,-41 50,-126 27,-238 -51,-276 -52,-26 -159,-27 -208,45 v -38 -37 c 0,-13 -4,-18 -8,-18 z"
-     sodipodi:nodetypes="ccssssccccssssccc" /></svg>
+     d="m 127,267 c -1,0 -3,1 -4,2 l -115,53 6,18 23,-8 c 8,-3 11,0 11,9 V 640 C 47,669 24,680 4,680 H 0 v 20 h 184 v -20 h -6 c -20,0 -42,-11 -42,-40 V 438 c 10,-66 111,-117 165,-70 43,37 37,132 3,230 -39,114 106,165 176,38 l -24,-6 c -36,43 -82,30 -59,-37 45,-134 25,-246 -53,-284 -52,-26 -159,-27 -208,45 v -69 c 0,-5 -1,-19 -9,-18 z"
+     sodipodi:nodetypes="ccssssccccssssccccccccsc" /></svg>

@@ -22,9 +22,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.080000004"
-     inkscape:cx="156.24999"
-     inkscape:cy="2856.2499"
+     inkscape:zoom="0.16000001"
+     inkscape:cx="15.624999"
+     inkscape:cy="1890.6249"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -34,5 +34,5 @@
      id="defs1" /><path
      id="glyph_"
      style="fill:#747474;stroke-width:160;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"
-     d="m 389,245 c -2,0 -5,2 -8,5 L 128,579 V 316 279 c 0,-18 -7,-20 -13,-16 l -115,53 6,18 23,-8 c 8,-3 11,0 11,9 v 359 6 c 0,10 42,9 49,0 L 287,442 c 13,-17 23,-20 23,-7 v 1 204 c -1,29 -24,40 -44,40 h -4 v 20 h 184 v -20 h -6 c -20,0 -42,-11 -42,-40 V 298 261 c 0,-11 -4,-16 -9,-16 z M 78,740 v 32 c 24,31 83,60 140,60 57,0 116,-29 140,-60 v -32 c -25,27 -78,44 -140,44 -62,0 -115,-17 -140,-44 z"
+     d="m 390,261 c -3,0 -6,2 -9,5 L 128,583 V 322 285 c 0,-18 -7,-19 -13,-16 l -115,53 6,18 23,-8 c 8,-3 11,0 11,9 v 353 6 c 0,10 42,9 49,0 L 287,457 c 13,-16 23,-20 23,-6 v 0 189 c -1,29 -24,40 -44,40 h -4 v 20 h 184 v -20 h -6 c -20,0 -42,-11 -42,-40 V 314 277 c 0,-11 -4,-16 -8,-16 z M 78,740 v 32 c 24,31 83,60 140,60 57,0 116,-29 140,-60 v -32 c -25,27 -78,44 -140,44 -62,0 -115,-17 -140,-44 z"
      sodipodi:nodetypes="ccssssccccssssccc" /></svg>

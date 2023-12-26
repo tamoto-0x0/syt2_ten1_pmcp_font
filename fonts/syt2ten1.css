@@ -1,7 +1,7 @@
 @font-face {
     font-family: "syt2ten1";
-    src: url("./syt2ten1.ttf?c83367ee089d0a3069e7373f93afcabd") format("truetype"),
-url("./syt2ten1.woff?c83367ee089d0a3069e7373f93afcabd") format("woff");
+    src: url("./syt2ten1.ttf?da0a50840b7b4ca35264b362c07fdf19") format("truetype"),
+url("./syt2ten1.woff?da0a50840b7b4ca35264b362c07fdf19") format("woff");
 }
 
 i[class^="icon-"]:before, i[class*=" icon-"]:before {
