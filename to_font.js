@@ -23,7 +23,7 @@ var __importStar = (this && this.__importStar) || function (mod) {
     return result;
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-const fantasticon_1 = require("fantasticon");
+const fantasticon_1 = require("@twbs/fantasticon");
 const fs = __importStar(require("fs"));
 (async function () {
     const fix_path = "glyphs";

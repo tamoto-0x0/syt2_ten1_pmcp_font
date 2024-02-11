@@ -1,402 +1,324 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>syt2ten1</title>
+  <meta charset="utf-8">
+  <title>syt2ten1</title>
 
-    <style>
-        body {
-            font-family: sans-serif;
-            margin: 0;
-            padding: 10px 20px;
-            text-align: center;
-        }
-        .preview {
-            width: 100px;
-            display: inline-block;
-            margin: 10px;
-        }
-        .preview .inner {
-            display: inline-block;
-            width: 100%;
-            text-align: center;
-            background: #f5f5f5;
-            -webkit-border-radius: 3px 3px 0 0;
-            -moz-border-radius: 3px 3px 0 0;
-            border-radius: 3px 3px 0 0;
-        }
-        .preview .inner  {
-            line-height: 85px;
-            font-size: 40px;
-            color: #333;
-        }
-        .label {
-            display: inline-block;
-            width: 100%;
-            box-sizing: border-box;
-            padding: 5px;
-            font-size: 10px;
-            font-family: Monaco, monospace;
-            color: #666;
-            white-space: nowrap;
-            overflow: hidden;
-            text-overflow: ellipsis;
-            background: #ddd;
-            -webkit-border-radius: 0 0 3px 3px;
-            -moz-border-radius: 0 0 3px 3px;
-            border-radius: 0 0 3px 3px;
-            color: #666;
-        }
-    </style>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 0;
+      padding: 10px 20px;
+      text-align: center;
+    }
+    .preview {
+      width: 100px;
+      display: inline-block;
+      margin: 10px;
+    }
+    .preview .inner {
+      display: inline-block;
+      width: 100%;
+      text-align: center;
+      background: #f5f5f5;
+      -webkit-border-radius: 3px 3px 0 0;
+      -moz-border-radius: 3px 3px 0 0;
+      border-radius: 3px 3px 0 0;
+    }
+    .preview .inner  {
+      line-height: 85px;
+      font-size: 40px;
+      color: #333;
+    }
+    .label {
+      display: inline-block;
+      width: 100%;
+      box-sizing: border-box;
+      padding: 5px;
+      font-size: 10px;
+      font-family: Monaco, monospace;
+      color: #666;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      background: #ddd;
+      -webkit-border-radius: 0 0 3px 3px;
+      -moz-border-radius: 0 0 3px 3px;
+      border-radius: 0 0 3px 3px;
+      color: #666;
+    }
+  </style>
 
-    <link rel="stylesheet" type="text/css" href="syt2ten1.css" />
+  <link rel="stylesheet" href="syt2ten1.css">
 </head>
 <body>
-
-    <h1>syt2ten1</h1>
-
-
-        <div class="preview">
-            <span class="inner">
-                <i class="icon icon-0"></i>
-            </span>
-            <br>
-            <span class="label">0</span>
-        </div>
-
-
-        <div class="preview">
-            <span class="inner">
-                <i class="icon icon-1"></i>
-            </span>
-            <br>
-            <span class="label">1</span>
-        </div>
-
-
-        <div class="preview">
-            <span class="inner">
-                <i class="icon icon-2"></i>
-            </span>
-            <br>
-            <span class="label">2</span>
-        </div>
-
-
-        <div class="preview">
-            <span class="inner">
-                <i class="icon icon-3"></i>
-            </span>
-            <br>
-            <span class="label">3</span>
-        </div>
-
-
-        <div class="preview">
-            <span class="inner">
-                <i class="icon icon-4"></i>
-            </span>
-            <br>
-            <span class="label">4</span>
-        </div>
-
-
-        <div class="preview">
-            <span class="inner">
-                <i class="icon icon-5"></i>
-            </span>
-            <br>
-            <span class="label">5</span>
-        </div>
-
-
-        <div class="preview">
-            <span class="inner">
-                <i class="icon icon-6"></i>
-            </span>
-            <br>
-            <span class="label">6</span>
-        </div>
-
-
-        <div class="preview">
-            <span class="inner">
-                <i class="icon icon-7"></i>
-            </span>
-            <br>
-            <span class="label">7</span>
-        </div>
-
-
-        <div class="preview">
-            <span class="inner">
-                <i class="icon icon-8"></i>
-            </span>
-            <br>
-            <span class="label">8</span>
-        </div>
-
-
-        <div class="preview">
-            <span class="inner">
-                <i class="icon icon-9"></i>
-            </span>
-            <br>
-            <span class="label">9</span>
-        </div>
-
-
-        <div class="preview">
-            <span class="inner">
-                <i class="icon icon-comma"></i>
-            </span>
-            <br>
-            <span class="label">,</span>
-        </div>
-
-
-        <div class="preview">
-            <span class="inner">
-                <i class="icon icon-exclamation"></i>
-            </span>
-            <br>
-            <span class="label">!</span>
-        </div>
-
-
-        <div class="preview">
-            <span class="inner">
-                <i class="icon icon-a"></i>
-            </span>
-            <br>
-            <span class="label">a</span>
-        </div>
-
-
-        <div class="preview">
-            <span class="inner">
-                <i class="icon icon-b"></i>
-            </span>
-            <br>
-            <span class="label">b</span>
-        </div>
-
-
-        <div class="preview">
-            <span class="inner">
-                <i class="icon icon-c"></i>
-            </span>
-            <br>
-            <span class="label">c</span>
-        </div>
-
-
-        <div class="preview">
-            <span class="inner">
-                <i class="icon icon-d"></i>
-            </span>
-            <br>
-            <span class="label">d</span>
-        </div>
-
-
-        <div class="preview">
-            <span class="inner">
-                <i class="icon icon-e"></i>
-            </span>
-            <br>
-            <span class="label">e</span>
-        </div>
-
-
-        <div class="preview">
-            <span class="inner">
-                <i class="icon icon-g"></i>
-            </span>
-            <br>
-            <span class="label">g</span>
-        </div>
-
-
-        <div class="preview">
-            <span class="inner">
-                <i class="icon icon-h"></i>
-            </span>
-            <br>
-            <span class="label">h</span>
-        </div>
-
-
-        <div class="preview">
-            <span class="inner">
-                <i class="icon icon-i"></i>
-            </span>
-            <br>
-            <span class="label">i</span>
-        </div>
-
-
-        <div class="preview">
-            <span class="inner">
-                <i class="icon icon-j"></i>
-            </span>
-            <br>
-            <span class="label">j</span>
-        </div>
-
-
-        <div class="preview">
-            <span class="inner">
-                <i class="icon icon-k"></i>
-            </span>
-            <br>
-            <span class="label">k</span>
-        </div>
-
-
-        <div class="preview">
-            <span class="inner">
-                <i class="icon icon-l"></i>
-            </span>
-            <br>
-            <span class="label">l</span>
-        </div>
-
-
-        <div class="preview">
-            <span class="inner">
-                <i class="icon icon-m"></i>
-            </span>
-            <br>
-            <span class="label">m</span>
-        </div>
-
-
-        <div class="preview">
-            <span class="inner">
-                <i class="icon icon-n"></i>
-            </span>
-            <br>
-            <span class="label">n</span>
-        </div>
-
-
-        <div class="preview">
-            <span class="inner">
-                <i class="icon icon-o"></i>
-            </span>
-            <br>
-            <span class="label">o</span>
-        </div>
-
-
-        <div class="preview">
-            <span class="inner">
-                <i class="icon icon-p"></i>
-            </span>
-            <br>
-            <span class="label">p</span>
-        </div>
-
-
-        <div class="preview">
-            <span class="inner">
-                <i class="icon icon-s"></i>
-            </span>
-            <br>
-            <span class="label">s</span>
-        </div>
-
-
-        <div class="preview">
-            <span class="inner">
-                <i class="icon icon-t"></i>
-            </span>
-            <br>
-            <span class="label">t</span>
-        </div>
-
-
-        <div class="preview">
-            <span class="inner">
-                <i class="icon icon-u"></i>
-            </span>
-            <br>
-            <span class="label">u</span>
-        </div>
-
-
-        <div class="preview">
-            <span class="inner">
-                <i class="icon icon-U-0020"></i>
-            </span>
-            <br>
-            <span class="label">U-0020</span>
-        </div>
-
-
-        <div class="preview">
-            <span class="inner">
-                <i class="icon icon-U-0022"></i>
-            </span>
-            <br>
-            <span class="label">U-0022</span>
-        </div>
-
-
-        <div class="preview">
-            <span class="inner">
-                <i class="icon icon-U-002D"></i>
-            </span>
-            <br>
-            <span class="label">U-002D</span>
-        </div>
-
-
-        <div class="preview">
-            <span class="inner">
-                <i class="icon icon-U-002E"></i>
-            </span>
-            <br>
-            <span class="label">U-002E</span>
-        </div>
-
-
-        <div class="preview">
-            <span class="inner">
-                <i class="icon icon-U-003F"></i>
-            </span>
-            <br>
-            <span class="label">U-003F</span>
-        </div>
-
-
-        <div class="preview">
-            <span class="inner">
-                <i class="icon icon-w"></i>
-            </span>
-            <br>
-            <span class="label">w</span>
-        </div>
-
-
-        <div class="preview">
-            <span class="inner">
-                <i class="icon icon-x"></i>
-            </span>
-            <br>
-            <span class="label">x</span>
-        </div>
-
-
-        <div class="preview">
-            <span class="inner">
-                <i class="icon icon-z"></i>
-            </span>
-            <br>
-            <span class="label">z</span>
-        </div>
-
-
+  <h1>syt2ten1</h1>
+
+  <div class="preview">
+    <span class="inner">
+      <i class="icon icon-0"></i>
+    </span>
+    <br>
+    <span class="label">0</span>
+  </div>
+  <div class="preview">
+    <span class="inner">
+      <i class="icon icon-1"></i>
+    </span>
+    <br>
+    <span class="label">1</span>
+  </div>
+  <div class="preview">
+    <span class="inner">
+      <i class="icon icon-2"></i>
+    </span>
+    <br>
+    <span class="label">2</span>
+  </div>
+  <div class="preview">
+    <span class="inner">
+      <i class="icon icon-3"></i>
+    </span>
+    <br>
+    <span class="label">3</span>
+  </div>
+  <div class="preview">
+    <span class="inner">
+      <i class="icon icon-4"></i>
+    </span>
+    <br>
+    <span class="label">4</span>
+  </div>
+  <div class="preview">
+    <span class="inner">
+      <i class="icon icon-5"></i>
+    </span>
+    <br>
+    <span class="label">5</span>
+  </div>
+  <div class="preview">
+    <span class="inner">
+      <i class="icon icon-6"></i>
+    </span>
+    <br>
+    <span class="label">6</span>
+  </div>
+  <div class="preview">
+    <span class="inner">
+      <i class="icon icon-7"></i>
+    </span>
+    <br>
+    <span class="label">7</span>
+  </div>
+  <div class="preview">
+    <span class="inner">
+      <i class="icon icon-8"></i>
+    </span>
+    <br>
+    <span class="label">8</span>
+  </div>
+  <div class="preview">
+    <span class="inner">
+      <i class="icon icon-9"></i>
+    </span>
+    <br>
+    <span class="label">9</span>
+  </div>
+  <div class="preview">
+    <span class="inner">
+      <i class="icon icon-comma"></i>
+    </span>
+    <br>
+    <span class="label">,</span>
+  </div>
+  <div class="preview">
+    <span class="inner">
+      <i class="icon icon-exclamation"></i>
+    </span>
+    <br>
+    <span class="label">!</span>
+  </div>
+  <div class="preview">
+    <span class="inner">
+      <i class="icon icon-a"></i>
+    </span>
+    <br>
+    <span class="label">a</span>
+  </div>
+  <div class="preview">
+    <span class="inner">
+      <i class="icon icon-b"></i>
+    </span>
+    <br>
+    <span class="label">b</span>
+  </div>
+  <div class="preview">
+    <span class="inner">
+      <i class="icon icon-c"></i>
+    </span>
+    <br>
+    <span class="label">c</span>
+  </div>
+  <div class="preview">
+    <span class="inner">
+      <i class="icon icon-d"></i>
+    </span>
+    <br>
+    <span class="label">d</span>
+  </div>
+  <div class="preview">
+    <span class="inner">
+      <i class="icon icon-e"></i>
+    </span>
+    <br>
+    <span class="label">e</span>
+  </div>
+  <div class="preview">
+    <span class="inner">
+      <i class="icon icon-g"></i>
+    </span>
+    <br>
+    <span class="label">g</span>
+  </div>
+  <div class="preview">
+    <span class="inner">
+      <i class="icon icon-h"></i>
+    </span>
+    <br>
+    <span class="label">h</span>
+  </div>
+  <div class="preview">
+    <span class="inner">
+      <i class="icon icon-i"></i>
+    </span>
+    <br>
+    <span class="label">i</span>
+  </div>
+  <div class="preview">
+    <span class="inner">
+      <i class="icon icon-j"></i>
+    </span>
+    <br>
+    <span class="label">j</span>
+  </div>
+  <div class="preview">
+    <span class="inner">
+      <i class="icon icon-k"></i>
+    </span>
+    <br>
+    <span class="label">k</span>
+  </div>
+  <div class="preview">
+    <span class="inner">
+      <i class="icon icon-l"></i>
+    </span>
+    <br>
+    <span class="label">l</span>
+  </div>
+  <div class="preview">
+    <span class="inner">
+      <i class="icon icon-m"></i>
+    </span>
+    <br>
+    <span class="label">m</span>
+  </div>
+  <div class="preview">
+    <span class="inner">
+      <i class="icon icon-n"></i>
+    </span>
+    <br>
+    <span class="label">n</span>
+  </div>
+  <div class="preview">
+    <span class="inner">
+      <i class="icon icon-o"></i>
+    </span>
+    <br>
+    <span class="label">o</span>
+  </div>
+  <div class="preview">
+    <span class="inner">
+      <i class="icon icon-p"></i>
+    </span>
+    <br>
+    <span class="label">p</span>
+  </div>
+  <div class="preview">
+    <span class="inner">
+      <i class="icon icon-s"></i>
+    </span>
+    <br>
+    <span class="label">s</span>
+  </div>
+  <div class="preview">
+    <span class="inner">
+      <i class="icon icon-t"></i>
+    </span>
+    <br>
+    <span class="label">t</span>
+  </div>
+  <div class="preview">
+    <span class="inner">
+      <i class="icon icon-u"></i>
+    </span>
+    <br>
+    <span class="label">u</span>
+  </div>
+  <div class="preview">
+    <span class="inner">
+      <i class="icon icon-U-0020"></i>
+    </span>
+    <br>
+    <span class="label">U-0020</span>
+  </div>
+  <div class="preview">
+    <span class="inner">
+      <i class="icon icon-U-0022"></i>
+    </span>
+    <br>
+    <span class="label">U-0022</span>
+  </div>
+  <div class="preview">
+    <span class="inner">
+      <i class="icon icon-U-002D"></i>
+    </span>
+    <br>
+    <span class="label">U-002D</span>
+  </div>
+  <div class="preview">
+    <span class="inner">
+      <i class="icon icon-U-002E"></i>
+    </span>
+    <br>
+    <span class="label">U-002E</span>
+  </div>
+  <div class="preview">
+    <span class="inner">
+      <i class="icon icon-U-003F"></i>
+    </span>
+    <br>
+    <span class="label">U-003F</span>
+  </div>
+  <div class="preview">
+    <span class="inner">
+      <i class="icon icon-w"></i>
+    </span>
+    <br>
+    <span class="label">w</span>
+  </div>
+  <div class="preview">
+    <span class="inner">
+      <i class="icon icon-x"></i>
+    </span>
+    <br>
+    <span class="label">x</span>
+  </div>
+  <div class="preview">
+    <span class="inner">
+      <i class="icon icon-z"></i>
+    </span>
+    <br>
+    <span class="label">z</span>
+  </div>
 </body>
 </html>

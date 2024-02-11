@@ -1,131 +1,132 @@
 @font-face {
-    font-family: "syt2ten1";
-    src: url("./syt2ten1.ttf?da0a50840b7b4ca35264b362c07fdf19") format("truetype"),
+  font-display: block;
+  font-family: "syt2ten1";
+  src: url("./syt2ten1.ttf?da0a50840b7b4ca35264b362c07fdf19") format("truetype"),
 url("./syt2ten1.woff?da0a50840b7b4ca35264b362c07fdf19") format("woff");
 }
 
-i[class^="icon-"]:before, i[class*=" icon-"]:before {
-    font-family: syt2ten1 !important;
-    font-style: normal;
-    font-weight: normal !important;
-    font-variant: normal;
-    text-transform: none;
-    line-height: 1;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+i[class^="icon-"]::before, i[class*=" icon-"]::before {
+  font-family: syt2ten1 !important;
+  font-style: normal;
+  font-weight: normal !important;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-0:before {
-    content: "\30";
+.icon-0::before {
+  content: "\30";
 }
-.icon-1:before {
-    content: "\31";
+.icon-1::before {
+  content: "\31";
 }
-.icon-2:before {
-    content: "\32";
+.icon-2::before {
+  content: "\32";
 }
-.icon-3:before {
-    content: "\33";
+.icon-3::before {
+  content: "\33";
 }
-.icon-4:before {
-    content: "\34";
+.icon-4::before {
+  content: "\34";
 }
-.icon-5:before {
-    content: "\35";
+.icon-5::before {
+  content: "\35";
 }
-.icon-6:before {
-    content: "\36";
+.icon-6::before {
+  content: "\36";
 }
-.icon-7:before {
-    content: "\37";
+.icon-7::before {
+  content: "\37";
 }
-.icon-8:before {
-    content: "\38";
+.icon-8::before {
+  content: "\38";
 }
-.icon-9:before {
-    content: "\39";
+.icon-9::before {
+  content: "\39";
 }
-.icon-exclamation:before {
-    content: "\21";
+.icon-exclamation::before {
+  content: "\21";
 }
-.icon-comma:before {
-    content: "\2c";
+.icon-comma::before {
+  content: "\2c";
 }
-.icon-a:before {
-    content: "\61";
+.icon-a::before {
+  content: "\61";
 }
-.icon-b:before {
-    content: "\62";
+.icon-b::before {
+  content: "\62";
 }
-.icon-c:before {
-    content: "\63";
+.icon-c::before {
+  content: "\63";
 }
-.icon-d:before {
-    content: "\64";
+.icon-d::before {
+  content: "\64";
 }
-.icon-e:before {
-    content: "\65";
+.icon-e::before {
+  content: "\65";
 }
-.icon-g:before {
-    content: "\67";
+.icon-g::before {
+  content: "\67";
 }
-.icon-h:before {
-    content: "\68";
+.icon-h::before {
+  content: "\68";
 }
-.icon-i:before {
-    content: "\69";
+.icon-i::before {
+  content: "\69";
 }
-.icon-j:before {
-    content: "\6a";
+.icon-j::before {
+  content: "\6a";
 }
-.icon-k:before {
-    content: "\6b";
+.icon-k::before {
+  content: "\6b";
 }
-.icon-l:before {
-    content: "\6c";
+.icon-l::before {
+  content: "\6c";
 }
-.icon-m:before {
-    content: "\6d";
+.icon-m::before {
+  content: "\6d";
 }
-.icon-n:before {
-    content: "\6e";
+.icon-n::before {
+  content: "\6e";
 }
-.icon-o:before {
-    content: "\6f";
+.icon-o::before {
+  content: "\6f";
 }
-.icon-p:before {
-    content: "\70";
+.icon-p::before {
+  content: "\70";
 }
-.icon-s:before {
-    content: "\73";
+.icon-s::before {
+  content: "\73";
 }
-.icon-t:before {
-    content: "\74";
+.icon-t::before {
+  content: "\74";
 }
-.icon-U-0020:before {
-    content: "\20";
+.icon-U-0020::before {
+  content: "\20";
 }
-.icon-U-0022:before {
-    content: "\22";
+.icon-U-0022::before {
+  content: "\22";
 }
-.icon-U-002D:before {
-    content: "\2d";
+.icon-U-002D::before {
+  content: "\2d";
 }
-.icon-U-002E:before {
-    content: "\2e";
+.icon-U-002E::before {
+  content: "\2e";
 }
-.icon-U-003F:before {
-    content: "\3f";
+.icon-U-003F::before {
+  content: "\3f";
 }
-.icon-u:before {
-    content: "\75";
+.icon-u::before {
+  content: "\75";
 }
-.icon-w:before {
-    content: "\77";
+.icon-w::before {
+  content: "\77";
 }
-.icon-x:before {
-    content: "\78";
+.icon-x::before {
+  content: "\78";
 }
-.icon-z:before {
-    content: "\7a";
+.icon-z::before {
+  content: "\7a";
 }
